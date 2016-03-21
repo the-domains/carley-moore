@@ -1,6 +1,6 @@
 name: Carley Moore
 favicon: null
-layout_spectrum: 0.8796047314535826
+layout_spectrum: 0
 typography_spectrum: 0.73273
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#736645'
     - '#254c88'
     - '#791c25'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.75
   saturation: 0.3125
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
