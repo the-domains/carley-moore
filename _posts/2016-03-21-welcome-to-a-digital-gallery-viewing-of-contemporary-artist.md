@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to a digital gallery viewing of contemporary artist and printmaker,\_"
-datePublished: '2016-03-21T17:43:07.024Z'
-dateModified: '2016-03-21T17:42:58.587Z'
+datePublished: '2016-03-21T18:07:40.819Z'
+dateModified: '2016-03-21T17:50:10.709Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
-published: true
 url: welcome-to-a-digital-gallery-viewing-of-contemporary-artist/index.html
 _type: Article
 
