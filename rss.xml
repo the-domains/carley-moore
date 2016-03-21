@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Carley Moore]]></title>
+        <description><![CDATA[Carley Moore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 17:43:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Carley Moore]]></title>
+            <description><![CDATA[<article><h1>Carley Moore</h1><p>Welcome to a digital gallery viewing of contemporary artist and printmaker, </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/599ba959-9b27-43fb-bf06-d5099388f17c.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-a-digital-gallery-viewing-of-contemporary-artist/index.html</link>
+            <guid isPermaLink="false">7ae8137f-9518-483e-9ccc-9e86e04320ec</guid>
+            <pubDate>Mon, 21 Mar 2016 17:43:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
