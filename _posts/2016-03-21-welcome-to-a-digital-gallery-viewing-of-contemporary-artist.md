@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to a digital gallery viewing of contemporary artist and printmaker,\_"
-datePublished: '2016-03-21T18:23:04.442Z'
-dateModified: '2016-03-21T18:22:51.586Z'
+datePublished: '2016-03-21T18:24:10.748Z'
+dateModified: '2016-03-21T18:23:13.534Z'
 title: Carley Moore
 author: []
 sourcePath: _posts/2016-03-21-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
