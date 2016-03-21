@@ -1,0 +1,28 @@
+name: Carley Moore
+favicon: null
+layout_spectrum: 0.8796047314535826
+typography_spectrum: 0.20497470162808895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8747749691829085
+  lightness: 0.1796474487055093
+  saturation: 0.18095170124433935
+  rhythmicContrast: 0.3745646954048425
+purpose: []
