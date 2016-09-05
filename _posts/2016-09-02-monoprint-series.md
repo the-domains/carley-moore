@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-09-02T02:25:53.544Z'
+datePublished: '2016-09-02T03:12:39.957Z'
 sourcePath: _posts/2016-09-02-monoprint-series.md
 author: []
 via: {}
-dateModified: '2016-09-02T02:25:53.071Z'
+dateModified: '2016-09-02T03:12:39.338Z'
 title: ''
 publisher: {}
 description: Monoprint Series
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: monoprint-series/index.html
 _context: 'http://schema.org'
 _type: Article
