@@ -1,4 +1,6 @@
 typography_spectrum: 0.9299919940531254
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#1d1e18'
@@ -31,6 +33,7 @@ navigation:
   - name: Contact
     id: 518d61ca-a42f-4e82-a714-534304a1b498
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e2cb7a-cc23-4ce3-a8d9-61d17a252efa.png
 title: ''
 purpose: []
