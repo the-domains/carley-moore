@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T02:25:23.043Z'
+datePublished: '2016-09-02T03:14:56.315Z'
 sourcePath: >-
   _posts/2016-09-02-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T02:25:22.171Z'
+dateModified: '2016-09-02T03:13:39.357Z'
 title: ''
 publisher: {}
 description: 'Welcome to a digital gallery viewing of contemporary artist and printmaker,'
@@ -25,7 +25,7 @@ EDUCATION
 
 **University of North Carolina at Charlotte**
 
-_Bachelors of Art with a concentration in Printmaking | Spring 2017_
+_Bachelors of Art with a concentration in Print Media | Spring 2017_
 
 EXPERIENCE
 
