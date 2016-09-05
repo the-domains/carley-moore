@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T00:57:54.592Z'
+datePublished: '2016-09-02T02:25:53.544Z'
 sourcePath: _posts/2016-09-02-monoprint-series.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:57:54.185Z'
+dateModified: '2016-09-02T02:25:53.071Z'
 title: ''
 publisher: {}
 description: Monoprint Series
