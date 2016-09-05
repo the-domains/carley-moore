@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T00:43:01.509Z'
+datePublished: '2016-09-02T00:55:19.242Z'
 sourcePath: >-
   _posts/2016-09-02-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:43:01.000Z'
+dateModified: '2016-09-02T00:55:18.933Z'
 title: ''
 publisher: {}
 description: 'Welcome to a digital gallery viewing of contemporary artist and printmaker,'
