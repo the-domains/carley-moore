@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T02:26:27.415Z'
+datePublished: '2016-09-02T02:45:01.588Z'
 sourcePath: _posts/2016-09-02-key-image-printing.md
 author: []
 via: {}
-dateModified: '2016-09-02T02:26:26.565Z'
-title: Key Image Printing
+dateModified: '2016-09-02T02:45:01.162Z'
+title: ''
 publisher: {}
-description: ''
+description: Self Portrait
 starred: false
 inFeed: true
 hasPage: true
@@ -16,8 +16,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## Key Image Printing
-
-### Self Portraits
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1d8872-00da-4543-ab70-f54bac0a8cb1.jpg)
+![Self Portrait](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c51afd9-0f94-4227-ae1c-821dd3fdba5c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9db3307-1133-4540-8e7c-0ef1d3895c31.jpg)
