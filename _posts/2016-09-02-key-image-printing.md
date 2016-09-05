@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T00:55:25.188Z'
+datePublished: '2016-09-02T00:58:30.642Z'
+sourcePath: _posts/2016-09-02-key-image-printing.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:55:24.477Z'
+dateModified: '2016-09-02T00:58:30.112Z'
 title: Key Image Printing
 publisher: {}
 description: ''
-sourcePath: _posts/2016-09-02-key-image-printing.md
 starred: false
 inFeed: true
 hasPage: true
