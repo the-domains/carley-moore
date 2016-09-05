@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T00:55:26.805Z'
+datePublished: '2016-09-02T00:57:54.592Z'
+sourcePath: _posts/2016-09-02-monoprint-series.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:55:26.531Z'
+dateModified: '2016-09-02T00:57:54.185Z'
 title: ''
 publisher: {}
 description: Monoprint Series
-sourcePath: _posts/2016-09-02-monoprint-series.md
 starred: false
 inFeed: true
 hasPage: true
