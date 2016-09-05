@@ -33,6 +33,9 @@ navigation:
   - name: Contact
     id: 518d61ca-a42f-4e82-a714-534304a1b498
     type: content
+  - name: CV
+    id: 70b0f143-80bb-4641-969d-155333cc1666
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e2cb7a-cc23-4ce3-a8d9-61d17a252efa.png
 title: ''
