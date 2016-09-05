@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Home
-    id: 7ae8137f-9518-483e-9ccc-9e86e04320ec
-    type: content
   - name: CV
     id: 92b56744-5482-48fe-8cfa-2d654ed7b0f1
     type: content
