@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T00:58:30.642Z'
+datePublished: '2016-09-02T02:26:27.415Z'
 sourcePath: _posts/2016-09-02-key-image-printing.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:58:30.112Z'
+dateModified: '2016-09-02T02:26:26.565Z'
 title: Key Image Printing
 publisher: {}
 description: ''
