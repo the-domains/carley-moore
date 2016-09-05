@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T00:40:22.742Z'
+datePublished: '2016-09-02T00:43:01.509Z'
 sourcePath: >-
   _posts/2016-09-02-welcome-to-a-digital-gallery-viewing-of-contemporary-artist.md
 author: []
 via: {}
-dateModified: '2016-09-02T00:40:22.267Z'
+dateModified: '2016-09-02T00:43:01.000Z'
 title: ''
 publisher: {}
 description: 'Welcome to a digital gallery viewing of contemporary artist and printmaker,'
@@ -20,4 +20,34 @@ _type: Article
 Welcome to a digital gallery viewing of contemporary artist and printmaker,
 ![Carley Moore](https://s3-us-west-2.amazonaws.com/the-grid-img/p/018243eedbe49037f5e7dd8f42b7c19dc997331b.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwNy0sKg0AQBcCrPFwnuE-M13D90J6hsedD2yTM7eO2oJaOK4bJZ0qtxjOxqI0X6Ep7T-smtrciiAbi0KxBQ6aZ-MBX5ac1oyXsd5bSm_N2eugVYD3QXWsUnuIPLHNf_8L9KDw" style=""></iframe>
+**CV**
+
+EDUCATION
+
+**University of North Carolina at Charlotte**
+
+_Bachelors of Art with a concentration in Printmaking | Spring 2017_
+
+EXPERIENCE
+
+2016 Print Studio Monitor| UNCC (present)
+
+Gallery Assistant Internship | UNCC (present)
+
+EXHIBITIONS
+
+2016 _Nebraska National Undergraduate Juried Art Exhibition_, Eisentrager-Howard Gallery | Lincoln, NE
+
+_Annual Juried Student Exhibition_, Rowe Arts Gallery | Charlotte, NC
+
+AWARDS
+
+2016 Excellence Award in Printmaking | COA+A Department, UNCC
+
+COA+A Student Spotlight, _COA+A Website _| UNCC
+
+2013 Best of Show, _Union County Student Artist Showcase, _South Peidmont Community College | Monroe, NC
+
+PUBLICATIONS
+
+2016 QC Journal, _local magazine_ | Charlotte, NC
