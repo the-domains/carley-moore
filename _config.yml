@@ -27,9 +27,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: CV
-    id: 92b56744-5482-48fe-8cfa-2d654ed7b0f1
-    type: content
   - name: Monoprint Series
     id: e2a33553-407c-43b0-893c-0d7d7d2390d1
     type: content
