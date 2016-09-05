@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T02:12:44.258Z'
+datePublished: '2016-09-02T02:13:39.478Z'
 sourcePath: _posts/2016-09-02-inquiries.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T02:12:43.660Z'
+dateModified: '2016-09-02T02:13:38.829Z'
 title: Inquiries
 publisher: {}
 description: carleyjanemoore@gmail.com
@@ -17,6 +17,3 @@ _type: Blurb
 # Inquiries
 
 carleyjanemoore@gmail.com
-
-    <script src="https://use.fontawesome.com/230ff41ff7.js"></script>
-    <i class="fa fa-instagram" aria-hidden="true"></i>
